@@ -3,7 +3,6 @@ package com.ohgiraffers.jenkinsproject.dto;
 import lombok.*;
 
 @NoArgsConstructor
-@RequiredArgsConstructor
 @Getter
 @Setter
 @ToString
