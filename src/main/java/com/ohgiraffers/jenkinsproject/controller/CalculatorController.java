@@ -1,7 +1,7 @@
 package com.ohgiraffers.jenkinsproject.controller;
 
-import com.ohgiraffers.bootproject.dto.CalculatorDTO;
-import com.ohgiraffers.bootproject.service.CalculatorService;
+import com.ohgiraffers.jenkinsproject.dto.CalculatorDTO;
+import com.ohgiraffers.jenkinsproject.service.CalculatorService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
